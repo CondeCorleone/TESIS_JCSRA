@@ -1,0 +1,184 @@
+{
+    "modalidades": {
+        "M": {
+            "horario": "09:00 a 15:00",
+            "dias": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes"
+            ],
+            "bloques": [
+                "09:00 a 10:30",
+                "10:30 a 12:00",
+                "12:00 a 13:30",
+                "13:30 a 15:00"
+            ]
+        },
+        "V": {
+            "horario": "14:00 a 20:00",
+            "dias": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes"
+            ],
+            "bloques": [
+                "14:00 a 15:30",
+                "15:30 a 17:00",
+                "17:00 a 18:30",
+                "18:30 a 20:00"
+            ]
+        },
+        "S": {
+            "horario": "09:00 a 15:00",
+            "dias": [
+                "Sábado"
+            ],
+            "bloques": [
+                "09:00 a 10:30",
+                "10:30 a 12:00",
+                "12:00 a 13:30",
+                "13:30 a 15:00"
+            ]
+        }
+    },
+    "aulas": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15"
+    ],
+    "profesores": {
+        "Idoneidad docente en el marco del modelo educativo": [
+            "Diego Martínez Herrera",
+            "Ana López Rivera",
+            "Jorge Ramírez Sánchez",
+            "Araceli Mancera Ramírez",
+            "Dannae Mireles  Montiel"
+        ],
+        "Lenguaje y comunicación": [
+            "Luis Castillo Ortiz",
+            "Gabriela Vargas Jiménez",
+            "Arturo Hernández Reyes",
+            "Sonia Morales Peña",
+            "Alberto Jesús Gus Báez",
+            "Evaristo Carrasco Torres",
+            "Salomón Gutiérrez Cocoletzi",
+            "Ana Karen Ruíz Montalvo"
+        ],
+        "Pensamiento matemático": [
+            "Carlos Pérez Gómez",
+            "Lucía Ramírez Fausto",
+            "Eduardo Salinas Rodríguez",
+            "Sandra Lizbeth Antonio Romero",
+            "Antonio Calixto Suárez Acosta",
+            "Bernabé Trejo Albarrán",
+            "Ximena Lourdes Almeida Suárez",
+            "Sebastián Elías De Valdés Quezada",
+            "Paulina Cerezo Robles",
+            "Crispín Genaro Cipriano Valdés"
+        ],
+        "Academia de exploración y comprensión del mundo natural": [
+            "Julio Hernández Ponce",
+            "Carmen Pérez Aguilar",
+            "Amaranta Martínez Santoyo",
+            "Dulce Aurora Salinas Pliego",
+            "Salvador Cienfuentes Ojeda"
+        ],
+        "Ámbito de autonomía curricular": [
+            "Francisco Herrera Blanco",
+            "Patricia Gutiérrez Romero",
+            "Gabriela Garduño González",
+            "Benjamín Balbuena Peralta",
+            "Facundo Riquelme Ledezma",
+            "Itzell Bazurto Garzón"
+        ],
+        "Artes": [
+            "Juan Rojas Bravo",
+            "Mariana Echeverría Carmona",
+            "Rebeca Curtz Montelongo",
+            "Claudia Cecilia Hendrix Galarza",
+            "Yanik Tejeda Ponce de León"
+        ],
+        "Educación Física": [
+            "Yaira Solís Domínguez",
+            "Zulema Jacqueline Trejo Pineda",
+            "Humberto Taboada Gallegos",
+            "Saúl Estrada Zurita",
+            "Montserrat Guajardo Olvios"
+        ],
+        "Educación socioemocional": [
+            "Beatriz Hernández Olivares",
+            "César Ramos Ortega",
+            "Josefina Riva Palacios Duque",
+            "Sheribeth Duarte Yunt",
+            "Karen Contreras Ríos"
+        ],
+        "Organización de la enseñanza": [
+            "Oscar Morales Pérez",
+            "Lourdes Peña Álvarez",
+            "Mari Carmen Rivera Cano",
+            "Ricardo Montemayor Soto",
+            "Enrique José Granada Silao",
+            "Mirelle Domínguez Aguilar",
+            "María Teresa Dantés Ontiveros Cervantes"
+        ],
+        "Competencias académicas y su aplicación profesional": [
+            "Tomás Ezequiel Barbosa Rukahua",
+            "Renato Escalona Durán",
+            "Julián Esteban Quiroga Tapia",
+            "Sofía del Pilar Montenegro Zambrano",
+            "Erasmo Fabián Paredes Zúñiga",
+            "Luciano Andrade Del Río",
+            "Isabela  Rubí Briceño Márquez"
+        ],
+        "Técnicas digitales para la enseñanza": [
+            "Ryota Hérnandez Loo",
+            "Enedina Sánchez Rubalcava",
+            "Celedonia Aguirre Ibañez",
+            "Ricardo Montemayor Soto",
+            "Armando Mendoza Treviño",
+            "Marcela Valencia Ritz"
+        ],
+        "Sistemas de evaluación y calificación": [
+            "María Emilia Goicoichea Rojas",
+            "Ángela Jazmín Huerta Badillo",
+            "Tamara Bustamante Del Monte",
+            "José Joaquín Delgadillo Olmedo",
+            "Matías Fiasco Astudillo",
+            "Milagros del Carmen Tavizón Ferrada"
+        ]
+    },
+    "asignaturas_por_semestre": {
+        "A": [
+            "Idoneidad docente en el marco del modelo educativo",
+            "Lenguaje y comunicación",
+            "Pensamiento matemático",
+            "Academia de exploración y comprensión del mundo natural",
+            "Ámbito de autonomía curricular",
+            "Artes"
+        ],
+        "B": [
+            "Educación Física",
+            "Educación socioemocional",
+            "Organización de la enseñanza",
+            "Competencias académicas y su aplicación profesional",
+            "Técnicas digitales para la enseñanza",
+            "Sistemas de evaluación y calificación"
+        ]
+    }
+}

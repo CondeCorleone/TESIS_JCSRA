@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema Automatizado de Horarios CAMCM - Web</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        button { font-size: 16px; padding: 10px 20px; margin: 10px; }
+        .traslapes { margin-top: 20px; border: 1px solid #ccc; padding: 10px; width: 80%; margin-left: auto; margin-right: auto; white-space: pre-wrap; text-align: left;}
+    </style>
+</head>
+<body>
+    <h1>✅ Sistema Automatizado de Horarios CAMCM - Web</h1>
+    <form method="post" action="/generar">
+        <button type="submit">Generar Horario</button>
+    </form>
+    <form method="post" action="/validar">
+        <button type="submit">Validar Traslapes</button>
+    </form>
+    <form method="post" action="/exportar">
+        <button type="submit">Exportar Horario (CSV)</button>
+    </form>
+
+    <div class="traslapes">
+        <h3>Resultados de Validación:</h3>
+        <div>{{ traslapes }}</div>
+    </div>
+
+    <p style="margin-top: 40px;">Versión 1.0 | Julio César Santa Rita Ávila</p>
+</body>
+</html>
