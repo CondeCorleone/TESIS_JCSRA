@@ -3,3 +3,7 @@ Dr. Eduardo René Rodríguez Ávila
 
 ## Anotaciones generales
 - Describir el uso y propósito del archivo requirements_web.txt en el archivo `README.md`
+
+
+## Acciones
+- Se agregó un archivo .gitignore
