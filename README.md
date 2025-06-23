@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este sistema permite generar de forma automatizada los horarios académicos del Centro de Actualización del Magisterio en la Ciudad de México (CAMCM), considerando las restricciones institucionales y validando posibles conflictos mediante técnicas de aprendizaje automático (Random Forest).
+Este sistema permite generar de forma automatizada los horarios académicos del Centro de Actualización del Magisterio en la Ciudad de México (CAMCM), considerando las restricciones institucionales y validando posibles conflictos mediante técnicas de aprendizaje automático (*Random Forest*).
 
 El sistema ofrece una interfaz gráfica sencilla para usuarios administrativos, permitiendo generar, validar y exportar horarios de forma eficiente.
 
