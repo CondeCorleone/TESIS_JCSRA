@@ -2,6 +2,9 @@ import pandas as pd
 import random
 from collections import defaultdict
 
+# Estos deberían considerse hiper parámetros de la solución, y por tanto no 
+# ser constantes en el código. Debereían haber una opción en la interfaz del 
+# sistema para establecerlas.
 MAX_MATERIAS_POR_GRUPO = 6
 MAX_BLOQUES_POR_DIA_GRUPO = 4
 
